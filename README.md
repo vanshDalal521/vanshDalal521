@@ -60,9 +60,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vanshDalal521&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-<p align="center">
-  <i>“Build clean. Learn continuously. Ship useful things.”</i>
-</p>
